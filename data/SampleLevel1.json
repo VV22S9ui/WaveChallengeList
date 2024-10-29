@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "free copy",
     "records": [
+        {
+            "user": "Taublix",
+            "link": "https://youtu.be/KM9WwiHrS9I?si=V_qIIEQy8BFoCpJK",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
