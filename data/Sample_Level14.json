@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "lhperson",
+            "link": "https://youtu.be/36SKKeShoJU?si=5r4aYC5VH5jRqLx0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
