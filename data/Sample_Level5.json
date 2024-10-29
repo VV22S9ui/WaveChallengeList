@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=4oRXP5lGfdc&ab_channel=Taublix",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "lhperson",
+            "link": "https://youtu.be/K6XEdyJ5hiE?si=yx-HpBxVqaIT19x5",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
